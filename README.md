@@ -1,0 +1,1 @@
+# Proje-FLO-Magazacilik-ve-Pazarlama-A.S.-Microsoft-Server-SQL-ile-Veri-Tabani-Sorgulama
